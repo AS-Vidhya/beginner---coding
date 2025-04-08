@@ -1,5 +1,6 @@
 //Student Record Entry System using C#:
 
+List<string> name = new List<string>();
 List<int> mark = new List<int>();
 string input;
 int number;
