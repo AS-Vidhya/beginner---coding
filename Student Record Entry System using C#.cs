@@ -1,4 +1,4 @@
-Student Record Entry System using C#:
+//Student Record Entry System using C#:
 
 List<int> mark = new List<int>();
 string input;
